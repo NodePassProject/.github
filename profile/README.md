@@ -31,20 +31,10 @@ This repository contains components, libraries, tools, and resources related to 
 - **NodePass JavaScript SDK**: JavaScript/TypeScript library for web integrations
 - **NodePass Shell SDK**: Shell library for automation and system integration
 
-## Documentation
-
-- [Installation Guide](https://github.com/yosebyte/nodepass/docs/installation.md)
-- [Usage Instructions](https://github.com/yosebyte/nodepass/docs/usage.md)
-- [Configuration Options](https://github.com/yosebyte/nodepass/docs/configuration.md)
-- [API Reference](https://github.com/yosebyte/nodepass/docs/api.md)
-- [Examples](https://github.com/yosebyte/nodepass/docs/examples.md)
-- [How It Works](https://github.com/yosebyte/nodepass/docs/architecture.md)
-- [Troubleshooting](https://github.com/yosebyte/nodepass/docs/troubleshooting.md)
-
 ## Community
 
 - Join our [Discussions](https://github.com/yosebyte/nodepass/discussions) to share your experiences and ideas
-- Follow our [Telegram channel](https://t.me/nodepass) for updates and community support
+- Follow our [Telegram channel](https://t.me/NodePassChannel) for updates and community support
 
 ## License
 
