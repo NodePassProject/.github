@@ -34,4 +34,4 @@ This repository contains components, libraries, tools, and resources related to 
 ## Community
 
 - Follow our [Telegram Channel](https://t.me/NodePassChannel) for updates and community support 
-- Join our [Discussions](https://github.com/yosebyte/nodepass/discussions) and [Telegram Group](https://t.me/NodePassGroup) to share your experiences and ideas
+- Join our [Discord](https://discord.gg/5TdhkQnJ) and [Telegram Group](https://t.me/NodePassGroup) to share your experiences and ideas
