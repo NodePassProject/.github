@@ -1,15 +1,13 @@
 # NodePass Project
 
 <div align="center">
-  <img src="https://cdn.yobc.de/assets/np-logo.png" alt="NodePass Logo" width="200">
+  <img src="https://nodepass.eu/assets/np-logo.png" alt="NodePass Logo" width="200">
   <h3>Universal TCP/UDP Tunneling Solution</h3>
 </div>
 
 ## Overview
 
 NodePass is an advanced, lightweight TCP/UDP tunneling solution built on an innovative three-tier architecture (server-client-master). It elegantly separates control and data channels while offering intuitive zero-configuration syntax. The system excels with its proactive connection pool that eliminates latency by establishing connections before they're needed.
-
-This repository contains components, libraries, tools, and resources related to the core [NodePass](https://github.com/yosebyte/nodepass) project.
 
 ## Main Components
 
