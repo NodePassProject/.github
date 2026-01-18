@@ -28,8 +28,3 @@ NodePass is an advanced, lightweight TCP/UDP tunneling solution built on an inno
 - **NodePass API Shell**: Interactive shell script for installing and managing NodePass API
 - **NodePass Telegram Bot**: Telegram bot for quick access to tunnel management features
 - **NodePass OpenWRT**: OpenWRT package for easy installation and management of NodePass on routers
-
-## Community
-
-- Follow our [Telegram Channel](https://t.me/NodePassChannel) for updates and community support 
-- Join our [Discord](https://discord.gg/2cnXcnDMGc) and [Telegram Group](https://t.me/NodePassGroup) to share your experiences and ideas
